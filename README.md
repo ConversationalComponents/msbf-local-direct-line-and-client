@@ -11,4 +11,4 @@ If you make changes to the server you'll also need to run `npm run build` or `np
 
 That's it, you're ready to go!
 
-Please take a look at the client's README.md for instructions on customizing the client
+Please take a look at the [client's README.md](https://github.com/ConversationalComponents/msbf-local-direct-line-and-client/blob/master/client/README.md) for instructions on customizing the client
