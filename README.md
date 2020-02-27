@@ -1,4 +1,4 @@
-## bare-bones Direct Line implemetation for use with local MSBF
+# Bare-bones Direct Line implemetation for use with local MSBF
 
 Serves a client application and provides direct line for an MSBF bot running on http://127.0.0.1:3978
 
