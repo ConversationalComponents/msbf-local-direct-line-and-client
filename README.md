@@ -4,9 +4,10 @@ Serves a client application and provides direct line for an MSBF bot running on 
 
 ## installation
 
-`npm install`
-`npm run build` or `npm run build-windows`
+`npm install`,  
 `npm start`
+
+If you make changes to the server you'll also need to run `npm run build` or `npm run build-windows` before running `npm start`
 
 That's it, you're ready to go!
 
